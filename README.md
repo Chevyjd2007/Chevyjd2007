@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chevyjd2007&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chevyjd2007)](https://github.com/Chevyjd2007/github-readme-stats)
 
 
 <!--
