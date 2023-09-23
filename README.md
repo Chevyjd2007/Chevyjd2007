@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chevyjd2007&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chevyjd2007&layout=donut)](https://github.com/Chevyjd2007/github-readme-stats)
 
 
 <!--
