@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chevyjd2007&layout=compact&langs_count=10" width="750"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chevyjd2007&layout=compact&langs_count=10" width="750" height="450"/>
 
 <!--
 **Chevyjd2007/Chevyjd2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
