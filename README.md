@@ -2,7 +2,7 @@
 
 <h1>Welcome to my profile 👋</h1>
 <h2>🔭 I’m currently working on class and side projects. As well as leetcode</h2>
-<h2>🌱 I’m currently learning and expanding my familiarity on frameworkds like Django, Expo, and .NET</h2>
+<h2>🌱 I’m currently learning and expanding my familiarity on frameworks like Django, Expo, and .NET</h2>
 <h2>😄 I am looking to collaborate on interesting open source projects</h2>
 <h2>📫 You can reach me via email: chevyjd2007@gmail.com</h2>
 
