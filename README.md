@@ -1,10 +1,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chevyjd2007&layout=compact&langs_count=10" width="100%" height="100%"/>
 
 <h1>Welcome to my profile 👋</h1>
-<h2>🔭 I’m currently working on class and side projects. As well as leetcode</h2>
+<!-- <h2>🔭 I’m currently working on class and side projects. As well as leetcode</h2>
 <h2>🌱 I’m currently learning and expanding my familiarity on frameworks like Django, Expo, and .NET</h2>
 <h2>😄 I am looking to collaborate on interesting open source projects</h2>
-<h2>📫 You can reach me via email: <a href="chevyjd2007@gmail.com">chevyjd2007@gmail.com</a></h2>
+<h2>📫 You can reach me via email: <a href="chevyjd2007@gmail.com">chevyjd2007@gmail.com</a></h2> -->
 
 <!--
 **Chevyjd2007/Chevyjd2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
